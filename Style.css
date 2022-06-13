@@ -1,0 +1,58 @@
+
+body{
+  background-color: #bccbde;
+  font-size: 14px;
+  font-family: sans-serif;
+  margin:0;
+  padding:0;
+
+}
+h5{
+  text-align: left;
+  font-size: 20PX;
+}
+div.content{
+  background-color:red;
+  height:auto;
+  width:auto;
+  border:5px solid #e3e0cf;
+  float:left;
+  margin: 10px;
+}
+div#first{
+  background-color: #c2dde6;
+}
+div#second{
+  background-color: #c2dde6;
+}
+div#third{
+  background-color: #c2dde6;
+}
+mark{
+  background-color: silver;
+}
+h4{
+  background-color: #c5d5cb;
+  width:100px;
+  height:50px;
+  line-height: 50px;
+text-align: center;
+
+}
+div.main{
+background-color: #e3e0cf 2px;
+  background-position: center;
+  text-align: left;
+}
+p{
+  font-size: 20px;
+}
+
+.nav{
+  width:100px;
+  height:80px;
+  background-color: black;
+}
+.nav ul{
+  float:left;
+}
